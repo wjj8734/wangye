@@ -1,0 +1,59 @@
+{
+    "pages": [
+        "pages/index/index",
+        "pages/chart/chart",
+        "pages/my/my",
+        "pages/index/details",
+        "pages/index/activity",
+        "pages/index/journalism",
+        "pages/index/more",
+        "pages/index/picture",
+        "pages/index/list",
+        "pages/index/room",
+        "pages/chart/analysis",
+        "pages/my/activity",
+        "pages/my/inspection",
+        "pages/my/adviser",
+        "pages/my/gwlists",
+        "pages/index/map",
+        "pages/index/web"
+    ],
+    "subPackages": [],
+    "window": {
+        "navigationBarTextStyle": "black",
+        "navigationBarTitleText": "安康兴华",
+        "navigationBarBackgroundColor": "#F8F8F8",
+        "backgroundColor": "#F8F8F8"
+    },
+    "tabBar": {
+        "color": "#999",
+        "backgroundColor": "#14212d",
+        "borderStyle": "black",
+        "selectedColor": "#e4cea5",
+        "list": [
+            {
+                "pagePath": "pages/index/index",
+                "text": "首页",
+                "iconPath": "static/tabbar/index.png",
+                "selectedIconPath": "static/tabbar/indexed.png"
+            },
+            {
+                "pagePath": "pages/chart/chart",
+                "text": "户型图",
+                "iconPath": "static/tabbar/apartment.png",
+                "selectedIconPath": "static/tabbar/apartmented.png"
+            },
+            {
+                "pagePath": "pages/my/my",
+                "text": "我的",
+                "iconPath": "static/tabbar/my.png",
+                "selectedIconPath": "static/tabbar/myed.png"
+            }
+        ]
+    },
+    "usingComponents": {
+        "nav-bar": "/components/zhouWei-navBar/index",
+        "w-title-bar": "/components/w-titleBar/w-titleBar"
+    },
+    "sitemapLocation": "sitemap.json"
+}

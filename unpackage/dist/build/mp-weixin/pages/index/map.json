@@ -1,0 +1,7 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "u-gap": "/node-modules/uview-ui/components/u-gap/u-gap"
+  }
+}

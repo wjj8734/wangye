@@ -1,0 +1,54 @@
+.tellPhones {
+	width: 5rem;
+	height: 1.5rem;
+	bottom: 12rem;
+	right: 0;
+	z-index: 9999;
+	border-top-left-radius: 15px;
+	border-bottom-left-radius: 15px;
+	background-color: #00af00;
+	font-size: 12px;
+	color:#fff;
+	position: fixed;
+	transform: translateZ(0);
+}
+
+.tellPhones .tellPhonesimg {
+	width: 18px;
+	height: 18px;
+	margin: 3px;
+}
+
+.tellPhones .tellPhoneText {
+	line-height: 25px;
+	margin-right: 3px;
+}
+
+.popup-box{
+	width: 100%;
+	background-color: #2a4259;
+	color:#fff;
+}
+.popup-box .popup-text{
+	padding: 3.5rem 3rem;
+	font-size: 16px;
+	width: 100%;
+}
+.popup-box .fabu-btns{
+	width: 100%;
+	bottom: 0;
+	position: absolute;
+}
+.popup-box .popup-botton{
+	color:#2a4259;
+	font-size: 15px;
+	width: 100%;
+	border-radius: 0;
+	height: 40px;
+	line-height: 40px;
+	border-color: #e4b056 !important;
+	background:linear-gradient(to bottom, #e4d3b5,#e4d481,#e4b056) !important;
+}
+.popup-box .popup-close{
+	background-color: #d0d0d0;
+}

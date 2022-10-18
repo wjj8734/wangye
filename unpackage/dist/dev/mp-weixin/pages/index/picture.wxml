@@ -1,0 +1,1 @@
+<view><u-navbar vue-id="fd522124-1" is-back="{{true}}" title="查看图片" title-color="#fff" back-icon-color="#fff" background="{{({background:'#213244'})}}" bind:__l="__l"></u-navbar></view>

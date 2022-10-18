@@ -1,0 +1,140 @@
+
+.mytitle{
+	background-color: #1c2a39;
+	width: 95vw;
+	margin-top:50px;
+	border-radius: 15px;
+}
+.portrait {
+	width: 50px;
+	height: 50px;
+	margin: 4%;
+	border-radius: 50%;
+	text-align: center;
+	margin-top: -15px;
+	border: #1c2a39 solid 5px;
+}
+.portrait .u-skeleton-circle {
+	position: relative;
+}
+.mytitle .portext{
+	width: 90%;
+	padding: 0 5%;
+}
+.mytitle .portext .vipClass{
+	width: 90px;
+	height: 25px;
+	background-color: #DAA520;
+	border-radius: 15px;
+	margin: 5px;
+	text-align: center;
+	line-height: 25px;
+}
+.mytitle .portext .vipClass ._span{
+	font-size: 14px;
+	margin-right: 5px;
+}
+.mytitle .portext .vipClass .vipimages{
+	background-color: #fff;
+	width: 15px;
+	height: 15px;
+	border-radius: 50%;
+	padding: 3px;
+	margin: 2px;
+	text-align: center;
+}
+.centerContent {
+	width: 90vw;
+	height: 200px;
+	margin:0 auto;
+	margin-top:5px;
+	background-color: #1c2a39;
+	width: 95vw;
+}
+ .u-cell-item-box{
+	background-color: #1c2a39 !important;
+	border:none !important;
+}
+.div3 {
+	width: 20vw;
+	height: 50px;
+	border: 1px solid #F00;
+	margin:0 auto;
+	margin-top:5px;
+	margin-left:10px;
+	float : left;
+}
+.container{
+	width: 100vw;
+	background-color: #1c2a39;
+}
+.contentCons{
+	background-color: #1c2a39;
+	width:100vw;
+	color:#fff;
+	border-top-left-radius: 25px;
+	border-top-right-radius: 25px;
+	position: absolute;
+	top:38vh
+}
+.content_activity{
+	width: 95vw;
+	background-color: #1c2a39;
+	margin: 15px 2.5vw;
+}
+.content_activity .activity_title ._span{
+	font-size: 18px;
+	color:#fff;
+	padding: 5px 15px;
+	font-weight: 600;
+	width: 70%;
+}
+.content_activity .activity_title button{
+	font-size:11px;
+	line-height: 20px;
+	margin: 5px;
+	background-color: #14212d;
+	color:#f0f0f0;
+}
+.content_activity .activity_content{
+	width: 100%;
+	border: #1c2a39 solid 1px;
+	height: 75px;
+}
+.content_activity .activity_content .activity_img{
+	width: 30%;
+	height: 75px;
+}
+.content_activity .activity_content .activity_content_span{
+	width: 60%;
+}
+.content_activity .activity_content .activity_content_span ._span{
+	padding: 8px;
+}
+.activity_content_8d_img{
+	width: 100%;
+	height: 880px;
+}
+.content {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	/* justify-content: center; */
+	background: #14212d;
+	height: 100vh;
+}
+.grid-img{
+	width: 35px;
+}
+.grid-text-z{
+	color:#fff;
+	margin-top: 10px;
+}
+

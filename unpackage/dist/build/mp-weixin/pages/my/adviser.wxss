@@ -1,0 +1,1 @@
+.content{background-color:#203042;min-height:100vh}.logo{width:95vw;height:300px;border-radius:25px;padding:5px 2.5vw}.name{color:#e4cea5;font-size:16px;padding:0 10px}.js{color:#7a7a7a;font-size:14px;margin-top:10px;padding:0 10px}.tellPhone{border-radius:0;width:100vw;position:absolute;bottom:0;color:#71695e;background:linear-gradient(180deg,#e4d3b5,#e4d481,#e4b056)}

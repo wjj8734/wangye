@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "户型图",
+  "usingComponents": {
+    "u-gap": "/node-modules/uview-ui/components/u-gap/u-gap"
+  }
+}

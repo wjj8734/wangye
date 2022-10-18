@@ -1,0 +1,45 @@
+
+.headers{
+	height: 5vh;
+	background: #1c2a39;
+	background-image: -webkit-radial-gradient(left, circle cover, #090e14 0%, #284159 100%);
+	background-image: radial-gradient(left, circle cover, #090e14 0%, #284159 100%);
+	/* background-image: radial-gradient(top, circle cover, #090e14 0%, #284159 80%); */
+	width: 100vw;
+}
+.content .zhengti{
+	background-color: #1c2a39;
+	color:#fff;
+}
+.content .zhengti .title{
+	color:#fff;
+}
+.content .zhengti .beian{
+	color:#a3a3a3;
+}
+.content .zhengti .jiage{
+	color:#ff0000;
+	font-size: 20px;
+}
+.ys{
+	color:#a3a3a3;
+}
+.content .zhengti .gd{
+	width: 80%;
+	height: 40PX;
+	font-size: 20px;
+	text-align: center;
+	margin: 0 auto;
+	border-radius: 5px;
+	background-color: #a3a3a3;
+}
+.content .zhengti .hxt{
+	color:#ffffff;
+	font-size: 24px;
+}
+.imgeh{
+	width: 45%;
+	height: 100px;
+}
+
+

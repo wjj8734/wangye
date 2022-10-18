@@ -1,0 +1,12 @@
+
+.content .zhengti {
+	padding: 10px;
+}
+.content .zhengti .title {
+}
+.content .zhengti .neirong ._span{
+	margin-top: 10px;
+}
+
+
+

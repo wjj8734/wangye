@@ -1,0 +1,20 @@
+
+.content {
+  background-color: #f8f8f8;
+}
+.content .title{
+	text-align: center;
+}
+.content .logo{
+	width: 100%;
+	height: 200px;
+}
+.content .neirong{
+	height:auto; 
+	min-height:0px;
+}
+.content .shijian{
+	font-size: 20px;
+	color: #a7a7a7;
+}
+

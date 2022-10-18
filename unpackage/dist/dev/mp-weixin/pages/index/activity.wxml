@@ -1,0 +1,1 @@
+<view><w-title-bar vue-id="68858b41-1" title="活动详情" isReturn="{{true}}" bgColor="#213244" textAlign="centers" textColor="#fff" bind:__l="__l"></w-title-bar><view>{{''+hd.title+''}}</view><view><image class="logo" src="{{hd.logo}}" lazy-load="{{true}}"></image></view><view class="neirong">{{''+hd.content+''}}</view><view class="shijian">{{'活动结束时间：'+hd.endTime+''}}</view></view>

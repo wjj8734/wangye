@@ -1,0 +1,67 @@
+	.uni-column{
+		
+		height: 46px;
+		background-color: #e2e1e2;
+		margin: 2.2vh auto;
+		border-radius: 2px;
+		box-shadow: -1px -1px 1px #d4d4d4,  3px 3px 10px #BABECC;
+		
+		width: 80%;
+		box-sizing: border-box;
+		transition: all 0.2s ease-in-out;
+		appearance: none;
+		-webkit-appearance: none;
+	}
+	.forgetpassword{
+		margin: 5px 0;
+		color: #00aaff;
+		border: solid 1px #00aaff;
+		filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00aaff', endColorstr='#0055ff');
+	}
+	.uni-column .uni-font{
+		width: 10%;
+		line-height: 30px;
+		margin: 5px;
+		text-align: center;
+	}
+	.uni-column .uni-input{
+		width: 80%;
+		padding: 0.3vh;
+		
+	}
+	.vertical{
+		float:left;
+		width: 2px;
+		height: 25px;
+		background: #bebebe;
+	}
+	.submit {
+		width: 80vw;
+		margin: auto;
+		border-radius: 2px;
+	}
+	.submit .ButtonClass {
+		color:#fff;		
+		margin-top: 10px;
+		background-color: #00aaff;
+		border-radius: 25px;
+		font-size: 13px;
+		padding: 7px;
+		/* box-shadow: -1px -1px 1px #d4d4d4,  5px 5px 20px #BABECC; */
+	}
+	.registers{
+		padding: 15px;
+		width: 80vw;
+		margin: auto;
+	}
+	.butto{
+		color:#999999 !/* important */;
+		border:0 !important;
+	}
+	.explain{
+		padding:10vw;
+		color:#f08f86;
+		font-size: 13px;
+	}
+
+	
