@@ -288,13 +288,13 @@
 .my-introduce{
 	width: 100vw;
 	background-color: #5500ff;
-	padding: 60px 5px 50px 5px;
+	padding: 60px 5px 50px 30px;
 }
 .my-name{
-	width: 70vw;
-	margin: 15px 0 0 20px;
+	width: 80vw;
+	margin: 15px 0 0 10px;
 	text-align: left;
-	color: #e4cea5;
+	color: #fff;
 }
 .my-list{
 	z-index: 0;
@@ -323,7 +323,8 @@
 .biaoge{
 	height: 50px;
 	line-height: 60px;
-	padding-left: 10px;
+	padding: 0 10px;
+	font-size: 13px;
 }
 .jiange{
 	background-color: #e4cea5;
