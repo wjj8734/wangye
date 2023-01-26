@@ -16,7 +16,7 @@
 
 <style lang="scss">
 	// @import "uview-ui/index.scss";
-	// @import "static/styles/frame.css";
+	@import "static/styles/frame.css";
 	// @import "static/styles/ficon.css";
 	@import "static/styles/public.css";
 </style>

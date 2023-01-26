@@ -8,8 +8,10 @@ import zhouWeiNavBar from "@/components/zhouWei-navBar";
 Vue.component("nav-bar", zhouWeiNavBar);
 Vue.config.productionTip = false
 
-axios.defaults.baseURL = "https://akxh.akxhjx.com/api/chase";
-Vue.prototype.imgURL = "https://akxh.akxhjx.com/up";
+// axios.defaults.baseURL = "https://akxh.akxhjx.com/api/chase";
+// Vue.prototype.imgURL = "https://akxh.akxhjx.com/up";
+axios.defaults.baseURL = "http://localhost/dev-api/system";
+Vue.prototype.imgURL = "";
 
 Vue.prototype.axios = axios;
 Vue.prototype.$util = util

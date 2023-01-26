@@ -4,16 +4,7 @@
 	},
 	"pages": [
 		{
-			"path": "pages/index/index",
-			"style" :                                                                                    
-			{
-				"navigationBarTitleText": "",
-			    "navigationStyle": "custom",
-			    "navigationBarTextStyle": "white"
-			}
-		}
-        ,{
-            "path" : "pages/index/artist",
+            "path" : "pages/index/address",
             "style" :                                                                                    
             {
                 "navigationStyle": "custom",
@@ -22,7 +13,7 @@
             
         }
 		,{
-		    "path" : "pages/index/community",
+		    "path" : "pages/index/gift",
 		    "style" :                                                                                    
 		    {
 		        "navigationStyle": "custom",
@@ -31,25 +22,7 @@
 		    
 		}
 		,{
-		    "path" : "pages/index/details",
-		    "style" :                                                                                    
-		    {
-		        "navigationStyle": "custom",
-		        "navigationBarTextStyle": "white"
-		    }
-		    
-		}
-		,{
-		    "path" : "pages/index/artist_details",
-		    "style" :                                                                                    
-		    {
-		        "navigationStyle": "custom",
-		        "navigationBarTextStyle": "white"
-		    }
-		    
-		}
-		,{
-		    "path" : "pages/index/community_details",
+		    "path" : "pages/index/addaddress",
 		    "style" :                                                                                    
 		    {
 		        "navigationStyle": "custom",
@@ -71,37 +44,25 @@
 	        "color":"#999",
 	        "backgroundColor":"#fff",
 	        "borderStyle":"black",
-			"selectedColor":"#5500ff",
+			"selectedColor":"#FB3D58",
 	        "list":[
 	            {
-	                "pagePath":"pages/index/index",
-	                "text":"热门",
-	                "iconPath":"static/tabbar/hot1.png",
-	                "selectedIconPath":"static/tabbar/hot2.png"
+	                "pagePath":"pages/index/gift",
+	                "text":"首页",
+	                "iconPath":"static/tabbar/shouye1.png",
+	                "selectedIconPath":"static/tabbar/shouye2.png"
 	            },
-	            {
-	                "pagePath":"pages/index/artist",
-	                "text":"艺术家",
-	                "iconPath":"static/tabbar/my1.png",
-	                "selectedIconPath":"static/tabbar/my2.png"
-	            },
-				{
-				    "pagePath":"pages/index/community",
-				    "text":"社区",
-				    "iconPath":"static/tabbar/apartment1.png",
-				    "selectedIconPath":"static/tabbar/apartment2.png"
-				},
 				{
 				    "pagePath":"pages/index/my",
 				    "text":"我的",
-				    "iconPath":"static/tabbar/character1.png",
-				    "selectedIconPath":"static/tabbar/character2.png"
+				    "iconPath":"static/tabbar/wode1.png",
+				    "selectedIconPath":"static/tabbar/wode2.png"
 				}
 	        ]
 	 },
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
-		"navigationBarTitleText": "静态页",
+		"navigationBarTitleText": "",
 		"navigationBarBackgroundColor": "#F8F8F8",
 		"backgroundColor": "#F8F8F8"
 	}

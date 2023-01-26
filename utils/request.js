@@ -1,5 +1,5 @@
-let baseURL='https://akxh.akxhjx.com/api/chase'
-// let baseURL='http://192.168.3.108:8090/chase'
+// let baseURL='https://akxh.akxhjx.com/api/chase'
+let baseURL='http://localhost/dev-api/system'
 
 function request(options,token,urlencoded){
 	let headers={}
