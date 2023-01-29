@@ -31,52 +31,59 @@
 	height: 100vh;
 	background-color: #F5F6FA;
 }
+
 .contentCons{
 	width: 100vw;
 }
 .fgx{
-	width: 89vw;
+	width: 100%;
 	height: 1px;
 	margin-right: 2vw;
-	background-color: #c3c3c3;
+	background-color: #e1e1e1;
 }
 .txlogo{
 	width: 60px;
 	height: 60px;
 	margin-left: 10px;
 	border-radius: 50px;
+	border: 3px solid #fff;
 }
 .myindex{
 	width: 70vw;
-	margin: 8px 0 0 10px;
+	margin: 8px 0 0 20px;
 }
 .myname{
-	font-size: 20px;
+	font-size: 23px;
 }
 .myjs{
-	color: #c6c6c6;
+	color: #ececec;
 }
 .indexnr{
-	width: 98vw;
-	padding: 30px 1vw 0 1vw;
+	margin-top:44vh;
+	width: 100vw;
 }
-.tiaojian{
+.first-top{
+	position: fixed;
+	top:0;
+	z-index: 1;
+}
+.order-tap{
 	width: 94vw;
 	z-index: 0;
 	position: absolute;
 	margin: 10px 0 0 10px;
-	top: 20vh;
+	top: 23vh;
 	height: 110px;
 	background-color: #ffffff;
-	border-radius: 20px;
+	border-radius: 5px;
 	padding-top: 10px;
+	box-shadow: 0 5px 15px  rgba(221, 221, 221, 0.4);
 }
 .wddd{
-	padding:0 0 10px 10px;
+	padding:0 0 10px 20px;
+	font-weight: 500;
 }
 .xuanze{
-	width: 80vw;
-	padding-left: 20px;
 	text-align:center;
 	font-size: 13px;
 }
@@ -84,17 +91,15 @@
 	width: 50px;
 	height: 50px;
 }
-.jiange{
-	height: 5.5vh;
-}
 .goodsdd{
 	width: 94vw;
 	margin-left: 10px;
 	background-color: #FFFFFF;
 	border-radius: 8px;
+	margin-top: 10px;
 }
 .goodsbt{
-	margin: 5px 0; 
+	padding: 10px 0;
 }
 .fqkimg{
 	width: 20px;
@@ -106,10 +111,12 @@
 	margin-right: 10px;
 	font-size: 14px;
 }
-.goodsimg{
+.goodsimgs{
 	margin: 3px 0 0 2px;
+	border: #fff solid 1px;
+	border-radius: 15px;
 }
-.goodsimg1{
+.goodsimg{
 	width: 100px;
 	height: 100px;
 }
@@ -119,6 +126,10 @@
 	font-size: 12px;
 }
 .fqknr{
+	padding: 5px 0;
+	font-weight: 600;
+}
+.fqknr1{
 	padding: 5px 0;
 }
 .goodscz{
@@ -150,13 +161,14 @@
 	padding: 10px 2vw 0 2vw;
 }
 .lpcontent{
+	width: 100vw;
 	height: 100vh;
 	background-color: #f1f1f1;
 }
 .xqlogo{
-	width: 95vw;
-	height: 30vh;
-	padding: 50px 0 0 1vw;
+	width: 96vw;
+	height: 210px;
+	padding: 20px 0 0 0;
 }
 .lpxq{
 	width: 90vw;
@@ -267,10 +279,31 @@
 	width: 100vw;
 	height: 30vh;
 }
+.my-top{
+	color:#fff;
+	top: 3vh;
+	position: fixed;
+	margin-left: 6vw;
+}
+.my-top-text{
+	font-size: 23px;
+	margin-bottom: 15px;
+}
+.my-top-bj{
+	width: 90px;
+	height: 38px;
+	margin-left: 50vw;
+	text-align: center;
+	line-height: 38px;
+	border: #ffffff solid 1px;
+	border-radius: 25px;
+	font-size: 18px;
+}
 .dlnr{
 	color:#fff;
-	bottom: 82vh;
+	top: 12vh;
 	position: fixed;
+	margin-left: 3.8vw;
 }
 .bjimg{
 	width: 100%;
@@ -280,4 +313,5 @@
 	/* position: relative !important; */
 	/* display: flex; */
 	position: relative;
+	padding: 0 4vw;
 }
