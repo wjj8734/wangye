@@ -1,5 +1,6 @@
 // let baseURL='https://akxh.akxhjx.com/api/chase'
-let baseURL='http://localhost/dev-api/system'
+// let baseURL='http://localhost/dev-api/system'
+ let baseURL='http://sup.chrray.com:8090/system'
 
 function request(options,token,urlencoded){
 	let headers={}

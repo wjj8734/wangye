@@ -10,7 +10,9 @@ Vue.config.productionTip = false
 
 // axios.defaults.baseURL = "https://akxh.akxhjx.com/api/chase";
 // Vue.prototype.imgURL = "https://akxh.akxhjx.com/up";
-axios.defaults.baseURL = "http://localhost/dev-api/system";
+// axios.defaults.baseURL = "http://localhost/dev-api/system";
+axios.defaults.baseURL = "http://sup.chrray.com:8090/system";
+
 Vue.prototype.imgURL = "";
 
 Vue.prototype.axios = axios;

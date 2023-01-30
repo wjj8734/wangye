@@ -1,7 +1,0 @@
-{
-  "navigationStyle": "custom",
-  "navigationBarTextStyle": "white",
-  "usingComponents": {
-    "w-title-bar": "/components/w-titleBar/w-titleBar"
-  }
-}

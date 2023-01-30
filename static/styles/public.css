@@ -228,22 +228,26 @@
 .dzlist{
 	width: 96vw;
 	padding:10px 0;
+	border-bottom:#dddddd solid 2px;
 }
 .dzlistxx{
 	width: 60vw;
 }
 .dzlistdz{
+	table-layout:fixed;
+	width: 40vw;
 	color: #7c7c7c;
+	font-size: 15px;
 }
 .dzlistimg{
 	width: 30px;
-	height: 40px;
-	margin-top: 10px;
+	height: 32px;
+	margin:0 0 10px 10px;
 }
 .dzlistimg1{
 	width: 30px;
 	height: 30px;
-	margin-top: 20px;
+	margin-bottom: 10px;
 }
 .tjdz{
 	width: 90vw;
